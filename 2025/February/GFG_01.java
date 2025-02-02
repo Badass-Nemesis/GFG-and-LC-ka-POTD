@@ -1,3 +1,5 @@
+// Question -> https://www.geeksforgeeks.org/problems/word-search/1
+
 class Solution {
     public static boolean check(char[][] mat, int i, int j, int ind, String word, boolean[][] visit) {
         if (ind == word.length()) {

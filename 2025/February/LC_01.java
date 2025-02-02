@@ -1,3 +1,5 @@
+// Question -> https://leetcode.com/problems/special-array-i/
+
 class Solution {
     public boolean isArraySpecial(int[] nums) {
         if (nums.length == 1) {
