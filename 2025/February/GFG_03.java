@@ -1,7 +1,5 @@
 // Qes -> https://www.geeksforgeeks.org/problems/height-of-binary-tree/1
 
-import java.util.*;
-
 class Node {
     int data;
     Node left, right;
