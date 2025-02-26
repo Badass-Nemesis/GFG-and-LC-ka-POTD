@@ -1,3 +1,4 @@
+package GFG;
 // Qes -> https://www.geeksforgeeks.org/problems/mirror-tree/1
 
 class Node {

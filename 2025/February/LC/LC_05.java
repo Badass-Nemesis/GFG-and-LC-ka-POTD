@@ -1,3 +1,4 @@
+package LC;
 // Qes -> https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal 
 
 class Solution {

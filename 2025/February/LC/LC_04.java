@@ -1,3 +1,4 @@
+package LC;
 // Qes -> https://leetcode.com/problems/maximum-ascending-subarray-sum 
 
 class Solution {

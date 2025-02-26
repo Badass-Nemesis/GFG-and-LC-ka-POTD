@@ -1,3 +1,4 @@
+package GFG;
 // Question -> https://www.geeksforgeeks.org/problems/word-search/1
 
 class Solution {

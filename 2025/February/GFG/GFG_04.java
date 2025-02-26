@@ -1,3 +1,4 @@
+package GFG;
 // Qes -> https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1 
 
 class Node {

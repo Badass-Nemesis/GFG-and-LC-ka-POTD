@@ -1,3 +1,4 @@
+package GFG;
 // Qes -> https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1 
 
 class Node {

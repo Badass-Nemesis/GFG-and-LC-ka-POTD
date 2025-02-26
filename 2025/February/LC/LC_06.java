@@ -1,3 +1,4 @@
+package LC;
 // Qes -> https://leetcode.com/problems/tuple-with-same-product/
 
 import java.util.*;

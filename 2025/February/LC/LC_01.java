@@ -1,3 +1,4 @@
+package LC;
 // Question -> https://leetcode.com/problems/special-array-i/
 
 class Solution {

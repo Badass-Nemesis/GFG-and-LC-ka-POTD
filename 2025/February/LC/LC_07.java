@@ -1,3 +1,4 @@
+package LC;
 // Qes -> https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/
 
 import java.util.*;
